@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/synapse_studies_daiki_synapse_synapse",
+  base: "/",
   plugins: [react()],
 })
