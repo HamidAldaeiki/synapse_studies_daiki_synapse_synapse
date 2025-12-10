@@ -1,7 +1,8 @@
 {
   "name": "synapse-studies-vite",
+      "homepage": "https://hamidaldaeiki.github.io/synapse_studies_daiki_synapse_synapse",
+
   "version": "0.0.1",
-    "homepage": "https://HamidAldaeiki.github.io/Synapse_Studies",
 
   "private": true,
   "scripts": {
